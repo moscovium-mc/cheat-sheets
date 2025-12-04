@@ -22,7 +22,7 @@ A continuously growing collection of cheat sheets covering web development, cybe
 
 ## How to Use  
 
-Each cheat sheet is designed to provide quick and useful reference material. Click on any link above to view the corresponding cheat sheet.  
+Each cheat sheet is designed to provide quick and useful reference material. Click on any link above to view the cheat sheet.  
 
 ## Contributing  
 
