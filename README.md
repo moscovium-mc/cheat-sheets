@@ -3,9 +3,9 @@
 # Cheat Sheets Collection
 
 ![Cheat Sheets](https://img.shields.io/badge/cheat_sheets-12-blue)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![Stars](https://img.shields.io/github/stars/moscovium-mc/cheat-sheets?style=social)
 ![License](https://img.shields.io/github/license/moscovium-mc/cheat-sheets)
-![Last Updated](https://img.shields.io/github/last-commit/moscovium-mc/cheat-sheets)
 
 **Quick reference materials for web development, cybersecurity, and IT operations**
 
